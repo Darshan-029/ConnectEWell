@@ -1,8 +1,6 @@
 const mongoose = require("mongoose");
 
-// Replace with your Atlas connection string
-const MONGO_URI =
-  "mongodb+srv://connectwell:connectwell123@cluster0.k8erc.mongodb.net/connectwell?retryWrites=true&w=majority&appName=Cluster0";
+const MONGO_URI = process.env.MONGO_URL;
 
 mongoose
   .connect(MONGO_URI, {
@@ -34,7 +32,6 @@ const userSchema = new mongoose.Schema({
 
 const User = mongoose.model("User", userSchema);
 
-// Generate 10 sample users
 const sampleUsers = Array.from({ length: 10 }, (_, i) => ({
   name: `Random User ${i + 1}`,
   email: `random${i + 1}@testmail.com`,
