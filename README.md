@@ -10,6 +10,10 @@ link:- https://drive.google.com/file/d/1ecWOV_v1nyCDo9zFYEJpmSRCmWgghpBL/view?us
 
 ---
 
+PPT Link:- https://drive.google.com/file/d/1hDx9oWzAEBSg0OWBfTpeSQ7tUQVWTkOM/view?usp=sharing
+
+---
+
 ## 🚀 Features
 
 - 🧑‍💼 **User roles**: Elderly, Volunteer, and Disabled
