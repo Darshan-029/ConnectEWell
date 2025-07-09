@@ -43,6 +43,8 @@ link:- https://drive.google.com/file/d/1ecWOV_v1nyCDo9zFYEJpmSRCmWgghpBL/view?us
 
 ## 📁 Project Structure
 
+```
+
 connectwell/
 │
 ├── client/                    # 🔵 Frontend (React)
@@ -100,5 +102,7 @@ connectwell/
 │
 ├── .gitignore
 └── README.md                     # You are here right now
+```
+
 
 ---
