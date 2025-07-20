@@ -6,7 +6,7 @@
 
 ## 🌐 Live Project Demo
 
-link:- https://drive.google.com/file/d/1ecWOV_v1nyCDo9zFYEJpmSRCmWgghpBL/view?usp=drivesdk
+link:- https://drive.google.com/file/d/1ISIiCMgon6BsNrpBS1w_3F6SFaJF4vh0/view?usp=drive_link
 
 ---
 
